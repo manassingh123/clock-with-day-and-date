@@ -1,0 +1,21 @@
+body
+{
+	background-color: #b1e3e3;
+}
+.custom
+{
+	width: 500px;
+	margin-left: 50px;
+}
+input[type='file']
+{
+	margin-top: 50px;
+}
+
+img
+{
+display: none;
+	height: 100px;
+	float: right;
+	margin-top: 25px;
+}
